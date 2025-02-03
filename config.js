@@ -222,7 +222,7 @@ var config = {
         },
         {
             id: 'eight-slide',
-            alignment: 'lerft',
+            alignment: 'left',
             
             title: 'The Franco-Austrian War',
             image: '',
